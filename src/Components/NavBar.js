@@ -17,22 +17,22 @@ function Navbar() {
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/about" exact activeClassName="active">
+                        <NavLink to="/portfolio/about" exact activeClassName="active">
                             About
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/Skills" exact activeClassName="active">
+                        <NavLink to="/portfolio/Skills" exact activeClassName="active">
                         Skills & Experience
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/blogs" exact activeClassName="active">
+                        <NavLink to="/portfolio/blogs" exact activeClassName="active">
                             Blogs
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/contact" exact activeClassName="active">
+                        <NavLink to="/portfolio/contact" exact activeClassName="active">
                             Find Me
                         </NavLink>
                     </li>

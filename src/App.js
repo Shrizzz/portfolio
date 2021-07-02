@@ -31,17 +31,20 @@ function App() {
               <Route path="/portfolio" exact>
                 <HomePage />
               </Route>
-              <Route path="/about" exact>
+              <Route path="/portfolio/about" exact>
                 <AboutPage />
               </Route>
-              <Route path="/Skills" exact>
+              <Route path="/portfolio/Skills" exact>
                 <SkillsPage />
               </Route>
-              <Route path="/blogs" exact>
+              <Route path="/portfolio/blogs" exact>
                 <BlogsPage />
               </Route>
-              <Route path="/contact" exact>
+              <Route path="/portfolio/contact" exact>
                 <ContactPage />
+              </Route>
+              <Route path="/portfolio/*" exact>
+                <HomePage />
               </Route>
             </Switch>
           </div>
