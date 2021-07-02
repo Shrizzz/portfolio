@@ -26,7 +26,7 @@ function HomePage() {
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
                     </a>
                     <a href="https://www.instagram.com/shrinidhizzz/" className="icon-holder">
-                        <FontAwesomeIcon icon={faInstagram} className="icon yt"/>
+                        <FontAwesomeIcon icon={faInstagram} className="icon ig"/>
                     </a>
                 </div>
             </header>
