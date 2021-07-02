@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.342ce3ba.chunk.css",
-    "main.js": "/portfolio/static/js/main.d57ed640.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d57ed640.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.6eba7de6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6eba7de6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.defbd7b0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.defbd7b0.js.map",
     "static/js/2.10ac130e.chunk.js": "/portfolio/static/js/2.10ac130e.chunk.js",
@@ -12,9 +12,9 @@
     "static/js/2.10ac130e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.10ac130e.chunk.js.LICENSE.txt",
     "static/media/Vaccine.d7602ddf.pdf": "/portfolio/static/media/Vaccine.d7602ddf.pdf",
     "static/media/about.9b2e6ae8.jpg": "/portfolio/static/media/about.9b2e6ae8.jpg",
-    "static/media/arnews.25df68fe.bmp": "/portfolio/static/media/arnews.25df68fe.bmp",
+    "static/media/arnews.a9a478e9.bmp": "/portfolio/static/media/arnews.a9a478e9.bmp",
     "static/media/avatar.7ab0a227.jpg": "/portfolio/static/media/avatar.7ab0a227.jpg",
-    "static/media/car.bfb7ec1e.jpg": "/portfolio/static/media/car.bfb7ec1e.jpg",
+    "static/media/car.0148f109.jpeg": "/portfolio/static/media/car.0148f109.jpeg",
     "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
     "static/media/emailme.a60657eb.svg": "/portfolio/static/media/emailme.a60657eb.svg",
     "static/media/gnani.b4d6d358.png": "/portfolio/static/media/gnani.b4d6d358.png",
@@ -25,16 +25,16 @@
     "static/media/mangalore.c4ed0030.jpg": "/portfolio/static/media/mangalore.c4ed0030.jpg",
     "static/media/ooty.25da1ba5.jpg": "/portfolio/static/media/ooty.25da1ba5.jpg",
     "static/media/phone.ef86e22a.svg": "/portfolio/static/media/phone.ef86e22a.svg",
-    "static/media/realistic.9227b9df.jpg": "/portfolio/static/media/realistic.9227b9df.jpg",
-    "static/media/ring.80225490.jpg": "/portfolio/static/media/ring.80225490.jpg",
+    "static/media/realistic.5d903b1c.jpg": "/portfolio/static/media/realistic.5d903b1c.jpg",
+    "static/media/ring.64c22ed7.jpg": "/portfolio/static/media/ring.64c22ed7.jpg",
     "static/media/selfe.9e00b517.jpg": "/portfolio/static/media/selfe.9e00b517.jpg",
     "static/media/suntemple.04539a68.jpg": "/portfolio/static/media/suntemple.04539a68.jpg",
-    "static/media/teddy.e7ff0013.jpg": "/portfolio/static/media/teddy.e7ff0013.jpg"
+    "static/media/teddy.a7fbf04e.jpg": "/portfolio/static/media/teddy.a7fbf04e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.defbd7b0.js",
     "static/js/2.10ac130e.chunk.js",
     "static/css/main.342ce3ba.chunk.css",
-    "static/js/main.d57ed640.chunk.js"
+    "static/js/main.6eba7de6.chunk.js"
   ]
 }
