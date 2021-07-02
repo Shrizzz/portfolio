@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.342ce3ba.chunk.css",
-    "main.js": "/portfolio/static/js/main.6eba7de6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6eba7de6.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0957d544.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0957d544.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.defbd7b0.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.defbd7b0.js.map",
     "static/js/2.10ac130e.chunk.js": "/portfolio/static/js/2.10ac130e.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.342ce3ba.chunk.css.map": "/portfolio/static/css/main.342ce3ba.chunk.css.map",
     "static/js/2.10ac130e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.10ac130e.chunk.js.LICENSE.txt",
-    "static/media/Vaccine.d7602ddf.pdf": "/portfolio/static/media/Vaccine.d7602ddf.pdf",
+    "static/media/Shrinidhi_Shetti_Resume.6914f950.pdf": "/portfolio/static/media/Shrinidhi_Shetti_Resume.6914f950.pdf",
     "static/media/about.9b2e6ae8.jpg": "/portfolio/static/media/about.9b2e6ae8.jpg",
     "static/media/arnews.a9a478e9.bmp": "/portfolio/static/media/arnews.a9a478e9.bmp",
     "static/media/avatar.7ab0a227.jpg": "/portfolio/static/media/avatar.7ab0a227.jpg",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.defbd7b0.js",
     "static/js/2.10ac130e.chunk.js",
     "static/css/main.342ce3ba.chunk.css",
-    "static/js/main.6eba7de6.chunk.js"
+    "static/js/main.0957d544.chunk.js"
   ]
 }
