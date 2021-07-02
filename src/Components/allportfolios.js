@@ -5,7 +5,7 @@ import mangalore from '../img/portImages/mangalore.jpg';
 import ooty from '../img/portImages/ooty.jpg';
 import suntemple from '../img/portImages/suntemple.jpg';
 import teddy from '../img/portImages/teddy.jpg';
-import car from '../img/portImages/car.jpg';
+import car from '../img/portImages/car.jpeg';
 import ring from '../img/portImages/ring.jpg';
 import realistic from '../img/portImages/realistic.jpg';
 import ecomm from '../img/portImages/selfe.jpg';
