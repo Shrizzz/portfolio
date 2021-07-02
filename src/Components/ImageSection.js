@@ -34,7 +34,7 @@ function ImageSection() {
                         <p>: India</p>
                     </div>
                 </div>
-                <a href={} className="btn" download>Download Cv</a>
+                <a href="" className="btn" download>Download Cv</a>
             </div>
         </div>
     )
