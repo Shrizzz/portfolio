@@ -12,7 +12,7 @@ function HomePage() {
           <span> Shrinidhi Shetti.</span>
                 </h1>
                 <p className="h-sub-text">
-                Full stack developer, designer and creative person. I have experience of almost 2 years in Software Development. Currently Working at Mindtree Ltd.
+                Full stack developer, designer and creative person. I have experience of almost 2 years in Software Development. Currently Working for Mindtree Ltd.
                 </p>
                 <br/>
                 <p className="h-sub-text">
